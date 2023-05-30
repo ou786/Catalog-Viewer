@@ -1,7 +1,4 @@
 # Catalog-Viewer
-Certainly! Here's a basic README template for your React component project:
-
-# Catalog Viewer
 
 This project is a catalog viewer for a collection of images. It allows users to browse through a gallery of images, view image details, and navigate between images. The project is built using React, TypeScript, and Material UI.
 
@@ -25,7 +22,7 @@ These instructions will help you get a copy of the project up and running on you
 ### Installation
 
 1. Clone the repository:
-   git clone <>
+   git clone <https://github.com/ou786/Catalog-Viewer>
 
 2. Navigate to the project directory:
    cd Catalog-viewer
@@ -55,4 +52,3 @@ You can customize the images and their details by modifying the `images` array i
 - Material UI - React component library for UI design
 
 Happy coding!
- 
